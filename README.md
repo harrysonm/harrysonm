@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harrysonm
-- 👀 I’m interested in frontend development & product design
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in product design & frontend development
 - 💞️ I’m looking to collaborate on product design related side projects
 - 📫 You can reach me via email at harrisonmainan@gmail.com
 
